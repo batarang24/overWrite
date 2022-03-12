@@ -1,0 +1,57 @@
+body
+{
+    margin: 0;
+    user-select: none;
+}
+#home:hover
+{
+    background-color: #424242 ;
+    
+}
+
+
+#notes:hover
+{
+    background-color: #424242;
+}
+
+#logout:hover
+{
+    background-color: #424242;
+}
+
+#phome:hover
+{
+    background-color: #424242;
+}
+
+#pnotes:hover
+{
+    background-color: #424242;
+}
+#shop:hover
+{
+    background-color: #424242;
+}
+
+#pshop:hover
+{
+    background-color: #424242;
+}
+
+#plogout:hover
+{
+    background-color: #424242;
+}
+#homepage
+{
+    overflow: hidden;
+}
+#notespage
+{
+    overflow: hidden;
+}
+#blocks:hover
+{
+    background-color: #424242;
+}
